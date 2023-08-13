@@ -1,0 +1,29 @@
+![preview](./.github/preview.png)
+
+> Trilha Explorer - Stage 03
+
+Rocketseat project built in order to strengthen technical knowledge in HTML and CSS.
+
+Projeto da Rocketseat construído com intuito de fortalecer conhecimentos técnico em HTML e CSS.
+
+## 🛠 Technologies
+
+- HTML
+- CSS
+- Git e Github
+
+## Applied Concepts
+
+> CSS
+
+- rem
+- @media
+- max-width
+
+> HTML
+
+- main
+- ul
+- li
+- div
+- span
